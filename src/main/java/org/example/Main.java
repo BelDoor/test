@@ -10,6 +10,6 @@ public class Main {
         System.out.println(RandomStringUtils.random(12,true,true));
         System.out.println("new branch");
         long l = 5;
-        
+        System.out.println(l);
     }
 }
